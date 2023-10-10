@@ -30,13 +30,13 @@ const Header = () => {
             <span>👋</span>
             <div style={{marginLeft: 20}}>
                 <p className='p-text'>Hello, I am</p>
-                <h1 className="head-text">Martin</h1>
+                <h1 className="head-text">TheBipu</h1>
             </div>
           </div>
 
           <div className="tag-cmp app__flex">
               <p className="p-text">Web Developer</p>
-              <p className="p-text">UI/UX Design</p>
+              <p className="p-text">UI/UX Designer</p>
           </div>
         </div>
 
