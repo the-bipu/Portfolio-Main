@@ -27,6 +27,7 @@ import profile from '../assets/profile.png';
 import thebipu from '../assets/thebipu.png';
 import circle from '../assets/circle.svg';
 import logo from '../assets/logo.png';
+import resume from '../assets/resume-3d-illustration.png';
 
 import adidas from '../assets/adidas.png';
 import amazon from '../assets/amazon.png';
@@ -64,6 +65,7 @@ export default {
   thebipu,
   circle,
   logo,
+  resume,
   adidas,
   amazon,
   asus,
