@@ -1,0 +1,43 @@
+.app__resume {
+    flex: 1;
+    width: 100%;
+    flex-direction: column;
+}
+
+.app__resume-container {
+    display: flex;
+    flex-direction: row;
+
+    .app__resume-con {
+        width: 50%;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+
+        gap: 2rem;
+
+        .app__resume-content {
+            text-align: center;
+        }
+
+        .app_resume-button {
+            width: auto;
+            height: auto;
+            padding: .9rem 1.2rem;
+            border-radius: 30px;
+            
+            box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+            border: none;
+        }
+    }
+
+    .app__resume-illustration {
+        width: 50%;
+
+        .app__resume-img {
+            width: 600px;
+            height: auto;
+        }
+    }
+}
