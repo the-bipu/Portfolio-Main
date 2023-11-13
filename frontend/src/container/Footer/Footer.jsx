@@ -34,7 +34,7 @@ const Footer = () => {
       .then(() => {
         setLoading(false);
         setIsFormSubmitted(true);
-      })
+    })
   }
 
   return (
